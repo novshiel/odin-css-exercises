@@ -8,12 +8,11 @@
   font-size: 36px;
 }
 
-.three-number {
+.adjust-font-size {
   font-size: 24px;
 }
 
 #four-number {
   background-color: #8DEF7C;
-  font-size: 24px;
   font-weight: bold;
 }
