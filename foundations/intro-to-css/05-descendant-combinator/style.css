@@ -1,0 +1,15 @@
+.container .text {
+  background-color: hsl(59 100% 50%);
+  color: rgb(249 1 1);
+  font-size: 20px;
+  text-align: center;
+}
+
+/* alternate solution
+div p {
+  background-color: hsl(59 100% 50%);
+  color: rgb(249 1 1);
+  font-size: 20px;
+  text-align: center;
+} 
+*/
